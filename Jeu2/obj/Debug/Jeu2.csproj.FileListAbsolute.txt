@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\2023\TESTS\DotNetTestingCourse\p2ch3\Jeu2\bin\Debug\Jeu2.exe.config
+C:\Users\HP\source\repos\2023\TESTS\DotNetTestingCourse\p2ch3\Jeu2\bin\Debug\Jeu2.exe
+C:\Users\HP\source\repos\2023\TESTS\DotNetTestingCourse\p2ch3\Jeu2\bin\Debug\Jeu2.pdb
+C:\Users\HP\source\repos\2023\TESTS\DotNetTestingCourse\p2ch3\Jeu2\obj\Debug\Jeu2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\2023\TESTS\DotNetTestingCourse\p2ch3\Jeu2\obj\Debug\Jeu2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\2023\TESTS\DotNetTestingCourse\p2ch3\Jeu2\obj\Debug\Jeu2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\2023\TESTS\DotNetTestingCourse\p2ch3\Jeu2\obj\Debug\Jeu2.exe
+C:\Users\HP\source\repos\2023\TESTS\DotNetTestingCourse\p2ch3\Jeu2\obj\Debug\Jeu2.pdb
